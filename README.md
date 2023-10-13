@@ -2,12 +2,11 @@
 ADM - Homework 1
 Sbordone Francesco 
 
-# Introduction
+## Introduction
 
-The purpose of this repository is to show my work on some challenges of the HackerRank website 
+This repository showcases my work on challenges from HackerRank. It includes code solutions and documentation.
 
-# Files
+## Files
 
-1. `stamps` is a folder that contains the pdf file that show the submissions on my HackerRank profile
-2. `ADM-HW1.ipynb` is a jupyter notebook file that contains all the '.py scripts' regarding Problem 1 and Problem 2
-   
+1. `stamps`: This folder contains PDF files that display my submissions on HackerRank.   
+2. `ADM-HW1.ipynb`: This Jupyter Notebook includes Python code solutions for Problem 1 and Problem 2. Each section in the notebook corresponds to a specific challenge, and you can find the challenge name along with the Python code.
