@@ -1,5 +1,6 @@
 # ADM-HW1
-ADM - Homework 1 Sbordone Francesco 
+ADM - Homework 1
+Sbordone Francesco 
 
 # Introduction
 
